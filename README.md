@@ -1,1 +1,7 @@
-# iyf-s10-week-03-chesemchanel
+# Week 3: Tools & Workflow
+
+## Description
+This project demonstrates Git version control, terminal usage, and workflow.
+
+## Author
+Chesem Chanel
