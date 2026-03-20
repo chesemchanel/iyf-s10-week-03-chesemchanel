@@ -13,3 +13,5 @@
 - mkdir src docs tests
 - mkdir src/css src/js src/images
 - touch README.md
+## Note
+This shows multiple commits using Git workflow.
