@@ -15,3 +15,8 @@
 - touch README.md
 ## Note
 This shows multiple commits using Git workflow.
+## JavaScript Setup Commands
+
+### Initialize Git in your project folder
+```bash id="68vht2"
+git init
