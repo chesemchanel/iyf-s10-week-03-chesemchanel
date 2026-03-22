@@ -20,3 +20,8 @@ This shows multiple commits using Git workflow.
 ### Initialize Git in your project folder
 ```bash id="68vht2"
 git init
+## JavaScript Setup Commands
+
+### Initialize Git in your project folder
+```bash id="68vht2"
+git init
